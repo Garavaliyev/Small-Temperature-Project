@@ -1,5 +1,6 @@
 # Small-Temperature-Project
 Instructions
+
 My goal is to create a visualization and prepare a write up describing the similarities and differences between global temperature trends and temperature trends in the closest big city to where I live.
 For this reason, I chose Berlin to compare temperature with global temperature
 To do this, I follow the steps below:
